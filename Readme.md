@@ -52,9 +52,6 @@
 
 ###
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=4ranv9sv11c8o9svrtdudxl0d&cover_image=true&theme=default)]]
-###
-
 <h2 align="center">Find Me</h2>
 
 ###
@@ -68,3 +65,10 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/4ranv9sv11c8o9svrtdudxl0d">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4ranv9sv11c8o9svrtdudxl0d&cover_image=true&theme=novatorem&bar_color=6b6b6b&bar_color_cover=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
