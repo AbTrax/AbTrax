@@ -15,7 +15,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h2 align="center">My Stats</h2>
 
