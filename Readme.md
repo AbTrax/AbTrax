@@ -52,12 +52,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/AbTrax">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=4ranv9sv11c8o9svrtdudxl0d&cover_image=true&theme=default)]]
 ###
 
 <h2 align="center">Find Me</h2>
@@ -72,4 +67,4 @@
 </div>
 
 ###
-Profile Readme Generator
+
