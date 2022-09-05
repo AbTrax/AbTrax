@@ -55,7 +55,7 @@
 
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <a href="AbTrax#0001" target="_blank">
