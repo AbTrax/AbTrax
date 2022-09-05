@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="center">Lorem ipsum dolor sit amet, <br><br>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad <br><br>minim veniam, quis nostrud exercitation ullamco laboris nisi ut <br>aliquip ex ea commodo consequat. <br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p align="center">⟁Hey Welcome! to my corner of the internet.<br>🤖I Like Machine Learning.<br>I Want To Work With Anyone and Everyone. 🤝<br>💻I Like New Technologies.<br>🌸Anime Is Neat</p>
 
 ###
 
@@ -59,16 +59,32 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="AbTrax#0001" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/19914762/abtrax?tab=profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<h6 align="center">Music I Like</h6>
+
+###
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=4ranv9sv11c8o9svrtdudxl0d&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4ranv9sv11c8o9svrtdudxl0d&cover_image=true&theme=compact" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/4ranv9sv11c8o9svrtdudxl0d">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4ranv9sv11c8o9svrtdudxl0d&cover_image=true&theme=novatorem&bar_color=6b6b6b&bar_color_cover=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://profile-counter.glitch.me/abtrax/count.svg?"  />
 </div>
 
 ###
+Profile Readme Generator
