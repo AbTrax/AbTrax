@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">🤖I Love Learning About And Making Machine Learning Systems.<br>💻I Like Learning About New Technologies.<br>🤝I Am Open To Work With All Especially Machine Learning Projects Or Things I Have Yet To Learn.</p>
+<p align="center">🤖I Love Learning About And Making Machine Learning Systems.<br>💻I Like Learning About New Technologies.<br>🤝I Am Open To Work With All Especially Machine Learning Projects Or Things I Have Yet To Learn.<br>🌸 Anime Is Cool</p>
 
 ###
 
@@ -65,15 +65,13 @@
 <h6 align="center">Music I Like</h6>
 
 ###
-
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=4ranv9sv11c8o9svrtdudxl0d&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4ranv9sv11c8o9svrtdudxl0d&cover_image=true&theme=compact" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
 
-<img align="left" height="250" src="https://4f.to/img/2022/9/18/221645/large.png"  />
+<img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"  />
 
 ###
