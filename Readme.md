@@ -1,21 +1,20 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co/x1vZXsH/github-header-image-1.png"  />
-</div>
+<h1 align="center">Hey I'm AbTrax nice To Meet You!</h1>
 
 ###
 
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/0381d4552977d334825fd7411768d16ab29de543a97c2bd0afbba0661accef84/68747470733a2f2f692e6962622e636f2f7831765a5873482f6769746875622d6865616465722d696d6167652d312e706e67"  />
+</div>
+
+###
 
 <h2 align="center">About Me</h2>
 
 ###
 
-<br clear="both">
-
-<p align="center">⟁Hey Welcome! to my corner of the internet.<br>🤖I Like Machine Learning.<br>I Want To Work With Anyone and Everyone. 🤝<br>💻I Like New Technologies.<br>🌸Anime Is Neat</p>
+<p align="center">🤖I Love Learning About And Making Machine Learning Systems.<br>💻I Like Learning About New Technologies.<br>🤝I Am Open To Work With All Especially Machine Learning Projects Or Things I Have Yet To Learn.</p>
 
 ###
-
-
 
 <h2 align="center">My Stats</h2>
 
@@ -38,15 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="52" alt="embeddedc logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="40" width="52" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
 ###
@@ -55,15 +54,9 @@
 
 ###
 
-
-
 <div align="center">
-  <a href="AbTrax#0001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/19914762/abtrax?tab=profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
 </div>
 
@@ -81,8 +74,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abtrax/count.svg?"  />
-</div>
+<img align="left" height="250" src="https://4f.to/img/2022/9/18/221645/large.png"  />
 
 ###
