@@ -12,7 +12,18 @@
 
 ###
 
-<p align="center">🤖I Love Learning About And Making Machine Learning Systems.<br>💻I Like Learning About New Technologies.<br>🤝I Am Open To Work With All Especially Machine Learning Projects Or Things I Have Yet To Learn.<br>🌸 Anime Is Cool</p>
+<p align="center">
+🤖 I love learning about and making machine learning systems.
+</p>
+<p align="center">
+💻 I am constantly seeking out new technologies and learning about them.
+</p>
+<p align="center">
+🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
+</p>
+<p align="center">
+🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+</p>
 
 ###
 
