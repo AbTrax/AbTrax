@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/Abtrax%20Gif.png?raw=true"  />
+  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
 </div>
 
 ###
