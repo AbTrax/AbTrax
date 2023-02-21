@@ -66,9 +66,9 @@
 ###
 
 <div align="center">
-  <a href"https://discord.com/users/1077472454563332157" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /> </a>
+  <a href="https://discord.com/users/1077472454563332157" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
   
-  <a href="https://stackoverflow.com/users/19914762/abtrax" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /> </a>
+  <a href="https://stackoverflow.com/users/19914762/abtrax" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
 </div>
 
 ###
