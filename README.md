@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm AbTrax Nice To Meet You!</h1>
+# Hey, I'm AbTrax! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ###
 
@@ -12,19 +12,10 @@
 
 ###
 
-<p align="center">
-🤖 I love learning about and making machine learning systems.
-</p>
-<p align="center">
-💻 I am constantly seeking out new technologies and learning about them.
-</p>
-<p align="center">
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
-</p>
-<p align="center">
+🤖 I love learning about and making machine learning systems.\
+💻 I am constantly seeking out new technologies and learning about them.\
+🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
 🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
-</p>
-
 ###
 
 <h2 align="center">My Stats</h2>
