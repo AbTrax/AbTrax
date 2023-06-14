@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abTrax&theme=bear&show_icons=true&hide_border=true&count_private=true&"  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbTrax&theme=bear" width=1000  alt="stats graph"/>
 
 </div>
 
