@@ -73,8 +73,4 @@
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4ranv9sv11c8o9svrtdudxl0d&cover_image=true&theme=compact" alt="Spotify recently played"  />
   </a>
 </div>
-
-
-<img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"  />
-
 ###
